@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: itsmedip/my011-5
+        image: itsmedip/batch040057weekend-2
         ports:
         - containerPort: 8080
