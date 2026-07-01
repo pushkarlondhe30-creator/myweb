@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: itsmedip/batch040057weekend-2:latest   # ✅ CHANGED
+        image: itsmedip/batch040057weekend-57:latest   # ✅ CHANGED
         imagePullPolicy: Always                     # ✅ ADDED
         ports:
         - containerPort: 8080
